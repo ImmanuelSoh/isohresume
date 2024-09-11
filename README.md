@@ -1,59 +1,37 @@
 # isohresume
+
 Immanuel Soh
-
-
-                     Profile  
-
- Phone: (531)-910-9821 | Email: immanuelbsoh@gmail.com 
- City/State: Omaha, Nebraska | Occupation: Student
+Phone: (531)-910-9821 | Email: immanuelbsoh@gmail.com
+Omaha, NE | www.linkedin.com/in/immanuelsoh
                  
-				     Education
-   BMJ Academy (homeschool), Omaha, NE (2019-2023); 
-  University of Nebraska Lincoln, Lincoln, NE (2023-)
+Education
+University of Nebraska-Lincoln, Lincoln, NE
+Bachelor of Science in Computer Science   						       May 2027
+•	GPA: 3.87/4.0
+•	Relevant Coursework: Honors Computer Science I & II, Discrete Math, Honors Data Structures and Algorithms, Calculus I & II
+•	Scholarships: UNL Regents Scholarship, Nebraska Career Scholarship
+•	University Honors Program, August 2023-Present
+Experience
+University of Nebraska-Lincoln, Lincoln, NE
+Learning Assistant							          August 2024 - Present
+•	Facilitate weekly Lab sections and grade coding assignments for dozens of students
+•	Communicate with coworkers and instructors, exploring better ways to assist hundreds of students with learning to code
+•	Debug code/troubleshoot other issues that are confusing students
+•	Review code and grade it based off of correctness, style, design, and other criteria
 
-GPA: 4.0
-ACT: 33
-SAT: 1470
-Relevant Coursework (high school): Dual enrollment classes for academic writing, computer science, mathematics, and public speaking; 
-CHE (entrepreneurship class); C4 (leadership training class)
-Relevant Coursework (College): Honors Computer Science, Calculus I, Sociology
-Cultural Immersion: Malaysia, Singapore, Thailand, China, Switzerland, Australia, Hong Kong, Germany
+Treasure Moment LLC, Omaha, NE
+Front Desk Worker and Operator						  June 2017 - Present	
+•	Resolve complaints professionally by listening patiently and calmly as well as providing further explanations when applicable to make customers happy
+•	Manage hundreds of customers in line, their payments, and their waivers
 
-				     Experience
-
-Teaching English Immersion classes through Zoom for students at Christian Sangpratheep School (a school in Thailand)
-Volunteering as a church discussion group leader/tech assistant
-Working in the summer for Treasure Moment LLC (family business)
-Founded homeschool board games club
-
-				Achievements/Awards
-
-KVNO Classical Kid July 2018 (musical performance recognition award)
-National Merit Scholarship Commended Scholar (NMSQT)
-Magna Cum Laude in National Latin Exam
-Governor-elect Teenpact Online 2021 (national)
-Eta Sigma Alpha (national homeschool honor society) Chi Zeta Chapter Member
-Scripps National Spelling Bee Participant 2018 & 2019(top 117 scorer preliminary test), 
-3rd Place 2018 Midwest Regional Spelling Bee, 2018 Douglas County Spelling Bee Champion, 
-2016 & 2018 Nebraska Homeschool Spelling Bee Champion
-
-				      Skills
-
-Teaching students and preparing a curriculum
-Basic understanding of Computer Programming in C and Java
-Customer service representation
-Money Management and Investing
-Team building, assembly, and coordination
-Editing and proofreading documents
-Piano performance & music theory
-Cosmopolitan mindset
-
-
-			 Interests/Minor Experience
-
-Helping underprivileged communities
-Computer Science
-Running a small Youtube channel (inactive)
-Videography
-Journaling for campus newspaper (homeschool co-op campus)
-Esports Team Delegate (scheduling times for competitions)
+Involvement
+Christian Sangpratheep School, Chiang Rai, Thailand
+Remote English Immersion Instructor			           November 2020 – April 2023
+•	Created engaging weekly lessons and exercises using a variety of learning tools to improve student engagement and learning for a class of 40
+•	Learned to use technology like Google Slides, Kahoot, and Peardeck to facilitate learning over Zoom and improve student engagement
+Skills
+•	Programming in C, Java, and Python
+•	Using Github for version control
+•	Using SQL to interact with databases
+•	Helping students reach their learning goals
+•	Using Microsoft Word, Excel, Teams, and Outlook
