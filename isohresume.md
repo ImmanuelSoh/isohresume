@@ -4,7 +4,7 @@ Immanuel Soh
 <br>
 Phone: (531)-910-9821 | Email: immanuelbsoh@gmail.com
 <br>
-Omaha, NE | www.linkedin.com/in/immanuelsoh
+Omaha, NE | [linkedin.com/in/immanuelsoh](https://www.linkedin.com/in/immanuelsoh/) | [github.com/ImmanuelSoh](https://github.com/ImmanuelSoh)
 <br>
 
 Education
